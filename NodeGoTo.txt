@@ -1,0 +1,15 @@
+/*
+Node.js is a JavaScript runtime built on Chrome’s V8 JavaScript engine that allows
+you to run JavaScript code outside the browser, typically on the server side.
+*/
+
+// Although Node.js runs on a single thread, it handles many connections simultaneously using event loops and callbacks.
+
+
+/*
+libuv is a multi-platform C library that provides Node.js with its event-driven,
+non-blocking I/O model. 
+It abstracts the underlying operating system’s asynchronous I/O operations 
+(like file system access, network, timers), 
+allowing Node.js to perform efficiently across different platforms.
+*/
